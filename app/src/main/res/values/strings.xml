@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GuzhengTuner</string>
+    <string name="rs">音频:结果</string>
+    <string name="getConnection">建立连接</string>
+    <string name="send_msg">点击发送</string>
+    <string name="address">请输入地址</string>
+    <string name="port">请输入端口</string>
+</resources>

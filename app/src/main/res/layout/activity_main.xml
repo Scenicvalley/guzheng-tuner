@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:src="@drawable/wendi"/>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="16dp"/> <!-- 调整间距的大小 -->
+
+    <Button
+        android:text="进入古筝调音器"
+        android:onClick="startActivity2"
+        android:layout_gravity="center"
+        android:background="#fff099"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+
+
+</LinearLayout>
